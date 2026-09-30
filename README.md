@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a second year at Leeds Beckett University, my degree is Cyber Security and Digital forensics.<br>I'm interested primarily in the digital forensics field!<br>I'm learning database systems, network security, digital forensics processing and analysing.<br>I'm interested in learning more about the world of digital forensics and meeting new people :)
+I'm a second year at Leeds Beckett University, my degree is Cyber Security and Digital forensics.<br>I'm interested primarily in the digital forensics field!<br>I'm currently learning database systems, network security, digital forensics processing and analysing.<br>I'm interested in learning more about the world of digital forensics and meeting new people :)
 
 
 # 💻 Tech Stack:
