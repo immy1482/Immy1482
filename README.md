@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a second year at Leeds Beckett University, my degree is Cyber Security and Digital forensics.<br>I'm interested primarily in the digital forensics field!<br>I'm currently learning database systems, network security, digital forensics processing and analysing.<br>I'm interested in learning more about the world of digital forensics and meeting new people :)
-# 🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/imogen-anderson-a959b23b7/) | [TryHackMe/CyberDefenders](https://tryhackme.com/p/imogenanderson25)
+# 🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/imogen-anderson-a959b23b7/) | [TryHackMe](https://tryhackme.com/p/imogenanderson25)
 
 
 # 💻 Tech Stack:
